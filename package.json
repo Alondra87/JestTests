@@ -1,0 +1,23 @@
+{
+  "name": "jesttests",
+  "version": "1.0.0",
+  "description": "In this exercise, I write a few practical tests for JavaScript functions using the Jest library.",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alondra87/JestTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alondra87/JestTests/issues"
+  },
+  "homepage": "https://github.com/Alondra87/JestTests#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
